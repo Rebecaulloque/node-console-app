@@ -1,0 +1,37 @@
+[
+  {
+    "id": "d75b969c-4153-4442-9d6b-8a88edfb42ca",
+    "desc": "Recolectar gemas del infinito",
+    "completadoEn": null
+  },
+  {
+    "id": "3faef470-f7b0-4f1d-b40e-0c8e8a183845",
+    "desc": "Gema del Espacio",
+    "completadoEn": "2023-02-15T19:00:55.070Z"
+  },
+  {
+    "id": "3954be1e-1e9a-4d0d-9dc8-4992494980e0",
+    "desc": "Gema de la Mente",
+    "completadoEn": null
+  },
+  {
+    "id": "73325a7d-14c6-47dd-8225-9db97f7aad21",
+    "desc": "Gema de la Realidad",
+    "completadoEn": "2023-02-15T19:00:55.071Z"
+  },
+  {
+    "id": "fb5c3cad-a3de-48f8-8a6b-630f06b4e2a2",
+    "desc": "Gema del Poder",
+    "completadoEn": "2023-02-15T19:00:55.071Z"
+  },
+  {
+    "id": "1be0295f-3f9f-4a6d-98fb-62ad612e2b87",
+    "desc": "Gema del Tiempo",
+    "completadoEn": null
+  },
+  {
+    "id": "21dbb9fd-3cb6-4438-b762-d96d49fd5922",
+    "desc": "Gema del Alma",
+    "completadoEn": "2023-02-15T19:00:55.071Z"
+  }
+]
